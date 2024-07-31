@@ -1,0 +1,6 @@
+streamlit
+llama_index
+llama-index-core
+matplotlib
+python-dotenv
+
