@@ -1,4 +1,4 @@
-from CQA import *
+from CQA_vega import *
 
 import streamlit as st
 from streamlit import pyplot as plt
