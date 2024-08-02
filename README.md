@@ -9,15 +9,15 @@ The CQA tool can be found here at [▶ CQA webapp](https://cqa.shrestha.club/). 
     - Navigate to the project directory
     - Run the following command to create a virtual environment
         **In Linux/Unix:**
-        - python3 -m venv CQA_venv
-        - source CQA_venv/bin/activate
+        - python3 -m venv cqa-venv
+        - source cqa-venv/bin/activate
         - pip install -r requirements.txt
         - rename .env.example to .env and update the openai api key and SAVE
         - streamlit run webapp_demo.py
         
         **In Windows:**
-        - python -m venv CQA_venv
-        - CQA_venv\Scripts\activate
+        - python -m venv cqa-venv
+        - cqa-venv\Scripts\activate
         - pip install -r requirements.txt
         - rename .env.example to .env and update the openai api key and SAVE
         - streamlit run webapp_demo.py
